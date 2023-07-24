@@ -35,6 +35,7 @@
     "clsx": "^2.0.0",
     "cmdk": "^0.2.0",
     "drizzle-orm": "^0.27.2",
+    "drizzle-zod": "^0.4.4",
     "eslint": "8.45.0",
     "eslint-config-next": "13.4.12",
     "jotai": "^2.2.2",
